@@ -1,4 +1,6 @@
-import random
+ ------rock scissors paper game------
+
+
 while True:
     print("Enter choice \n 1. Rock \n 2. paper \n 3. scissor \n")
 
