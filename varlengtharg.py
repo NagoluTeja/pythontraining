@@ -4,4 +4,4 @@ def greatest(*nos):
         if e > result:
            result = e
    return result
-print(greatest(1,4,3))
+print(greatest(18,400,50))
